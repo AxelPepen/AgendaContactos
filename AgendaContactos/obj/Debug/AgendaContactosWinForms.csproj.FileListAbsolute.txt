@@ -1,0 +1,10 @@
+D:\ProyectosC#VSC\AgendaContactos\bin\Debug\AgendaContactosWinForms.exe.config
+D:\ProyectosC#VSC\AgendaContactos\bin\Debug\AgendaContactosWinForms.exe
+D:\ProyectosC#VSC\AgendaContactos\bin\Debug\AgendaContactosWinForms.pdb
+D:\ProyectosC#VSC\AgendaContactos\obj\Debug\AgendaContactosWinForms.csproj.AssemblyReference.cache
+D:\ProyectosC#VSC\AgendaContactos\obj\Debug\AgendaContactosWinForms.Form1.resources
+D:\ProyectosC#VSC\AgendaContactos\obj\Debug\AgendaContactosWinForms.Properties.Resources.resources
+D:\ProyectosC#VSC\AgendaContactos\obj\Debug\AgendaContactosWinForms.csproj.GenerateResource.cache
+D:\ProyectosC#VSC\AgendaContactos\obj\Debug\AgendaContactosWinForms.csproj.CoreCompileInputs.cache
+D:\ProyectosC#VSC\AgendaContactos\obj\Debug\AgendaContactosWinForms.exe
+D:\ProyectosC#VSC\AgendaContactos\obj\Debug\AgendaContactosWinForms.pdb
